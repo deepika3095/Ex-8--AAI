@@ -54,7 +54,7 @@ except Exception as e:
 
 ## Output:
 
-<img width="452" height="87" alt="image" src="https://github.com/user-attachments/assets/0dd7d6b7-ea05-4df0-b940-21f34e7b868d" />
+<img width="417" height="49" alt="image" src="https://github.com/user-attachments/assets/97300577-28aa-4b05-b1dd-41f787e1d393" />
 
 ## Result:
 Thus, the implementation of speech recognition is executed successfully.
